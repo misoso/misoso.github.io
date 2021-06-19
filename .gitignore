@@ -9,3 +9,12 @@ Gemfile.lock
 node_modules
 package.json
 logs/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### VS Code ###
+.vscode/
