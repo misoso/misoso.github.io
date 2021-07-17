@@ -118,6 +118,8 @@ img {
 .date {
   font-style: italic;
   color: $gray;
+  font-size: 12px;
+  line-height: 12px;
 }
 
 // Specify the color of the selection
@@ -271,11 +273,34 @@ nav {
   }
 }
 
+.wrapper-pagination {
+  text-align: center;
+  font-size: 16px;
+  line-height: 16px;
+  position: fixed;
+  width: 100%;
+  bottom: 89px;
+  left: 0;
+}
+
+.pagination {
+  padding: 10px;
+  display: inline-block;
+  background-color: $lightGray;
+
+  a, span, em {
+    margin: 0 2px 0 2px;
+  }
+}
+
 .wrapper-footer {
-  margin-top: 50px;
+  // margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
+  position: fixed;
+  width: 100%;
+  bottom: 0px;
 }
 
 footer {
