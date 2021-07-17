@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 1.物联网简介
+categories : /learning/IoT-For-Beginners
 ---
 
 > 物联网入门系列
