@@ -1,6 +1,13 @@
-# 物联网简介
+---
+layout: post
+title: 1.物联网简介
+---
 
+> 物联网入门系列
+>
 > [Github 原文](https://github.com/microsoft/IoT-For-Beginners/blob/main/1-getting-started/lessons/1-introduction-to-iot/README.md)
+
+![lesson-1](https://github.com/microsoft/IoT-For-Beginners/raw/main/sketchnotes/lesson-1.jpg)
 
 ## 课前检测
 
